@@ -28,5 +28,3 @@ Durante o curso, foram desenvolvidas diversas visualizações, como:
 - Boxplots
 - Gráficos com anotações e destaques visuais
 - Personalização com paletas de cores e estilos
-
-## 📁 Estrutura do Projeto
